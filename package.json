@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Realtime chat app with rooms",
   "main": "server.js",
-  npm cache clean  "scripts": {
+  "scripts": {
     "start": "node server.js",
     "dev": "nodemon server"
   },
